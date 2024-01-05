@@ -1,0 +1,134 @@
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\DesktopAttendanceSystem.exe
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\BCrypt.Net.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\DesktopAttendanceSystem.exe.config
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Buffers.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.IO.Pipelines.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Memory.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\ZstdSharp.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\BCrypt.Net.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\Google.Protobuf.pdb
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\Google.Protobuf.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\MySql.Data.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Buffers.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.IO.Pipelines.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Memory.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Dashboard.resources
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Register.resources
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Login.resources
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Users.resources
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.exe
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.pdb
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Debug\DesktopAttendanceSystem.pdb
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\DesktopAttendanceSystem.exe.config
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\DesktopAttendanceSystem.exe
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\DesktopAttendanceSystem.pdb
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\BCrypt.Net.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\Google.Protobuf.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\MySql.Data.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Buffers.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.IO.Pipelines.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Memory.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Numerics.Vectors.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\ZstdSharp.dll
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\BCrypt.Net.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\Google.Protobuf.pdb
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\Google.Protobuf.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\MySql.Data.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Buffers.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.IO.Pipelines.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Memory.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Numerics.Vectors.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Event.resources
+C:\Users\LENOVO\source\repos\PEMROGRAMAN DESKTOP\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Attendance.resources
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\DesktopAttendanceSystem.exe.config
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\DesktopAttendanceSystem.exe
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\DesktopAttendanceSystem.pdb
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\BCrypt.Net.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\BouncyCastle.Cryptography.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\Google.Protobuf.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\K4os.Compression.LZ4.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\K4os.Compression.LZ4.Streams.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\K4os.Hash.xxHash.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\MySql.Data.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Buffers.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Configuration.ConfigurationManager.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Diagnostics.DiagnosticSource.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.IO.Pipelines.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Memory.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Numerics.Vectors.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Threading.Tasks.Extensions.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\ZstdSharp.dll
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\BCrypt.Net.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\BouncyCastle.Cryptography.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\Google.Protobuf.pdb
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\Google.Protobuf.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\K4os.Compression.LZ4.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\K4os.Compression.LZ4.Streams.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\K4os.Hash.xxHash.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\MySql.Data.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Buffers.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Diagnostics.DiagnosticSource.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.IO.Pipelines.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Memory.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Numerics.Vectors.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\bin\Release\System.Threading.Tasks.Extensions.xml
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.csproj.AssemblyReference.cache
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Attendance.resources
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Dashboard.resources
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Event.resources
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Register.resources
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Login.resources
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Properties.Resources.resources
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.Users.resources
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.csproj.GenerateResource.cache
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.csproj.CoreCompileInputs.cache
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.csproj.CopyComplete
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.exe
+F:\PKPL\DesktopAttendanceSystem\DesktopAttendanceSystem\obj\Debug\DesktopAttendanceSystem.pdb
